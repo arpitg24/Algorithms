@@ -1,5 +1,6 @@
 //prints primes less than given number
 #include<iostream>
+//hello
 using namespace std;
 bool prime(int a){     //tells if no. is prime or not
     bool check = false;
